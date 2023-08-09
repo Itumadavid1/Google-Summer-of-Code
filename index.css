@@ -366,6 +366,9 @@ footer{
     .land-page{
         padding: 4rem;
     }
+    .land-page{
+        height: 60vh
+    }
     .what-is-left h2{
         padding: 4rem 4rem 2rem;
         width: 100%;
@@ -439,7 +442,7 @@ footer{
         display: none;
     }
     .land-page{
-        height: 40vh
+        height: 60vh
     }
     .right-section{
         width: 100%;
